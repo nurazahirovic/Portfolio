@@ -1,0 +1,28 @@
+1. slika na posteru "Free Palestine" : by Subhamsome on Pixabay
+2. Code was heavily sourced from : https://youtu.be/6egO0WgqYaU?si=7dwAsT30fbT0C76w
+3. Ikone preuzete sa : Font Awesome.
+4. Pomoć u pisanju koda: DeepSeek AI
+5.https://towardsdatascience.com/a-practical-toolkit-for-time-series-anomaly-detection-using-python/
+6.https://css-tricks.com/creating-scroll-based-animations-in-full-view/ 
+7.https://www.smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/
+
+
+Pozdrav svima,
+Kako imamo 80 prijava za projekte, odbrane će biti poprilično vesele i mislim da nemamo drugog izbora, 
+osim iste organizovati u subotu.
+Na sljedećem linku ćete učitavati projekte (isti link ćemo koristiti i za drugi projekat): https://forms.gle/YtDsxupHjEPkCYwK6
+ 
+Pazite da stranica ne bude veća od 100 MB, umanjite slike, izrežite video i slično. Inače nećete moći učitati stranicu. 
+Jedna od stavki pri učitavanju i je YouTube video, gdje se od vas traži da snimite izgled stranice i prođete kroz istu.
+Taj video učitajte na YT, te možete ga staviti na unlisted opciju. Tada nije javan, ali svi koji dobiju link mogu pogledati isti. 
+Time ćete mi mnogo olakšati pregledanje, te ćemo izbjeći situacije "radilo je na mom računaru". Prikažite u 2-3 minute sve što 
+imate na stranici i to je to.
+Na odbrani spremite kratki demo (prolazak kroz projekat), max 2 minute, nakon toga prelazimo na pitanja i diskusiju. 
+Ukoliko imate laptop na kojem možete prezentovati, to će olakšati i ubrzati proces, tako da bujrum.
+Rok za slanje projekta je 18.12.2025. godine do 22 sata. Svako kašnjenje se kažnjava sa 1 bodom po satu kašnjenja.
+Nakon završnih prijava, ja ću objaviti plan i raspored odbrana. Odbrane ćemo organizovati u grupama po 10-tak studenata,
+gdje svi dođu u tom terminu, te slučajnim odabirom prozivamo. Dužni ste biti tokom odbrane vaše grupe (što je cca 1h).
+Odbrana je planirana za cijelu subotu, pa molim vas da imate razumijevanja sa terminima, ali isto tako, 
+da navedete ukoliko vam izričito neki termini ne odgovaraju, kako bih i ja mogao da vam izađem u susret ako je moguće.
+Plan je da odbrana traje od 9 ili 10 ujutro do večernjih sati (sa obzirom na broj prijava, vjerovatno do 19).
+Javite se molim vas u komentar ako imate pitanja, da ne bih morao više puta odgovarati isto.
